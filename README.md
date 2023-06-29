@@ -9,7 +9,7 @@
 Описание процесса установки программы и необходимых компонентов описаны в [руководстве пользователя](https://docs.google.com/document/d/1m5EY09sAS3Egug9BXlzvs51LAaRi05EyT1g64zDBAkI/edit?usp=sharing)
 
 # Демонстрация приложения
-[Демонстрация](https://vk.com/video605765187_456240354)
+[Демонстрация](https://youtu.be/nyK9ptvnFb8)
 
 # Использованные средства
 - [C#](https://learn.microsoft.com/ru-ru/dotnet/csharp/) - Язык программирования
