@@ -1,5 +1,5 @@
 # PersonalFinanceApp
-![icon](https://github.com/Egor1238349349374/PersonalFinanceApp/assets/101702378/ab830893-4f79-4900-84ac-d0ce72ce0c42)
+![icon](https://github.com/Egor1238349349374/PersonalFinanceApp/assets/101702378/797c0a57-b705-4690-ad32-eff72d900606)
 
 
 # Описание
