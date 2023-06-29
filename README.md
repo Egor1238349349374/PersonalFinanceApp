@@ -6,7 +6,7 @@
 Приложение предназначено для управления финансами и позволяет улучшить над ними контроль
 
 # Установка
-Описание процесса установки программы и необходимых компонентов описаны в [руководстве пользователя](https://docs.google.com/document/d/1Ui_qYYpTX9p5abQ4aBmQgwlyPgKBU43Oe6NZoSmrBe8/edit?usp=sharing)
+Описание процесса установки программы и необходимых компонентов описаны в [руководстве пользователя](https://docs.google.com/document/d/1m5EY09sAS3Egug9BXlzvs51LAaRi05EyT1g64zDBAkI/edit?usp=sharing)
 
 # Демонстрация приложения
 [Демонстрация](https://youtu.be/ohcJDhwLdaQ)
