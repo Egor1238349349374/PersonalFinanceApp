@@ -16,6 +16,6 @@
 - [Micosoft Visual Studio](https://visualstudio.microsoft.com/ru/) - Среда разработки
 
 # Авторы
-- Егор - сделал всю работу - [Egor]([https://github.com/keyftwink](https://github.com/Egor1238349349374))
+- Егор - сделал всю работу - [Egor](https://github.com/Egor1238349349374)
 # Использованные источники
 - [Документация C#](https://learn.microsoft.com/ru-ru/dotnet/csharp/)
